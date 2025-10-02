@@ -14,16 +14,25 @@ The approach generalizes to other fixed-income instruments and bond datasets bey
 - **Uncertainty Quantification:** Posterior distributions to capture predictive uncertainty  
 - **Model Evaluation:** Includes train/test splits and Negative Log Predictive Density (NLPD)  
 - **Comparative Analysis:** Functions to compare bond yield curves across issuers/sectors  
-- **Visualization:** Matplotlib plots with confidence intervals, posterior samples, and test point markers  
+- **Visualization:** Matplotlib plots with confidence intervals, posterior samples, and test point markers
+
+
+### Example of Models and Posterior Distributions:
+
+![Alt Text](images/bayesian_model.png)
+![Alt Text](images/posterior_distributions.png)
 
 ## ⚡ Getting Started
 
-### Libraries
 Install the required libraries using pip:
 
 ```bash
 pip install numpy pandas matplotlib mplcyberpunk datetime scipy sklearn
 ```
+
+Clone this repository 
+Run through notebook cells to reproduce the analysis and plots
+
 
 ## Research Connection
 
