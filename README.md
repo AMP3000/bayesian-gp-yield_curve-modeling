@@ -10,7 +10,8 @@ The approach generalizes to other fixed-income instruments and bond datasets bey
 
 ## 🔍 Notebook Overview
 
-Data from [EMMA Website](https://emma.msrb.org/)
+[Data](https://github.com/AMP3000/bayesian-gp-yield_curve-modeling/tree/main/data) from [EMMA Website](https://emma.msrb.org/)
+
 
 - **Bayesian Gaussian Process Regression (GP):** Flexible nonparametric modeling of bond yield curves  
 - **Uncertainty Quantification:** Posterior distributions to capture predictive uncertainty  
