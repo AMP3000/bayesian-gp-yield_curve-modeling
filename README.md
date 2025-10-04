@@ -41,4 +41,4 @@ pip install numpy pandas matplotlib mplcyberpunk datetime scipy sklearn
 
 This project was completed as a part of a Research for Undergraduates (REU) Program. A research paper was written alongside the code to formalize the methodology and findings. 
 
-🔗 [Research Paper](https://drive.google.com/file/d/1cYeYV2rkz7CBj5UKULra5SL2RA-PPwyO/view)
+🔗 [Program Proceedings](https://pdxscholar.library.pdx.edu/altreu_projects/18/)
